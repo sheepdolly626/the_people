@@ -1,6 +1,6 @@
 # the_people
 
-Pet project for "Skylearn" school
+Pet project for "Skylearn" school 
 
 ### About this repository:  
 
