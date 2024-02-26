@@ -2,7 +2,7 @@
 
 Pet project for "Skylearn" school
 
-### About this repository:
+### About this repository: 
 
 <ul>
     <li>This is a pet project to demonstrate my skills in Python programming.</li>
